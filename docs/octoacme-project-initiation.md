@@ -18,6 +18,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Business Analyst: initial requirements and process analysis
+- UX Designer: preliminary user research findings or personas (if applicable)
 
 ## Project One-pager Template
 - Project name:
@@ -41,3 +43,8 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Related Documents
+- [RACI Matrix](./roles-raci.md) - Role accountability for initiation activities
+- [Roles and Personas](./octoacme-roles-and-personas.md) - Detailed role descriptions
+- [Project Planning](./octoacme-project-planning.md) - Next phase after initiation

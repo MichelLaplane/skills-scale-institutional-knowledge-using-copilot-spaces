@@ -26,6 +26,11 @@ The following documents provide detailed guidance on each aspect of our project 
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - How we capture learnings and drive continuous improvement
 - [Roles and Personas](octoacme-roles-and-personas.md) - Detailed descriptions of roles, responsibilities, and personas in our projects
 
+## Templates and Reference Materials
+
+- [Role Responsibility Template](role-responsibility-template.md) - Reusable template for documenting new roles and their interactions
+- [RACI Matrix](roles-raci.md) - Accountability mapping for key project activities across all roles
+
 ## How to use these docs
 
 Maintainers should keep this README and associated process documents current as our practices evolve. When making updates:
