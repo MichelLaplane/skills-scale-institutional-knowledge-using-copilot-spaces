@@ -5,8 +5,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
+  - Facilitated by Scrum Master to ensure team coordination and blocker identification
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+- Sprint planning and retrospectives facilitated by Scrum Master
+  - Scrum Master is responsible for facilitating Agile ceremonies and removing impediments
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -29,8 +32,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
+- Level 1: Team-level triage in daily standup — Scrum Master facilitates resolution and removes impediments
+- Level 2: PM escalates to Product Lead and dependent teams when blockers cannot be resolved at team level
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
@@ -38,3 +41,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related Documents
+- [RACI Matrix](./roles-raci.md) - Role accountability for execution activities
+- [Roles and Personas](./octoacme-roles-and-personas.md) - Detailed role descriptions including Scrum Master
