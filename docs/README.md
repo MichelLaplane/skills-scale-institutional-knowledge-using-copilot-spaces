@@ -31,7 +31,7 @@ The following documents provide detailed guidance on each aspect of our project 
 Maintainers should keep this README and associated process documents current as our practices evolve. When making updates:
 
 - Reference the `.copilot/` directory for Copilot Spaces context usage (when applicable)
-- Use the [issue template](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) to request changes or additions to process documentation
+- Use the [issue template](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) to request changes or additions to process documentation
 - Ensure updates align with our principles and are reviewed with stakeholders when appropriate
 
 ## Acceptance Criteria
